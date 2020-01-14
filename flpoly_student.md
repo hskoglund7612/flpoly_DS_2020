@@ -1,23 +1,23 @@
-## First Name Last Name
+## Hailey Skoglund
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Principles of Macroeconomics
 
-- Course 3
+- Introduction to Business Finance
 
-- Course 4
+- Entreprenurial Opportunity Analysis
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Violin
 
-- Thing 2
+- Math
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
